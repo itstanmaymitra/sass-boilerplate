@@ -1,0 +1,14 @@
+{
+  "name": "sass-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate of my every sass app",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "itsTanmayMitra",
+  "license": "ISC"
+}
